@@ -6,9 +6,8 @@ Code for dynamically maintaining a connectivity-based graph decomposition tree.
 - cd mybuild
 - cmake ..
 - make
-- cd src
 - usage: ./cluster-alg <path-to-config>
-- example configs can be found in the configs directory
+- example configs can be found in the configs directory, if your mybuild directory is in src, then you can run ./cluster-alg ../../configs/example_config.txt
 
 # Options
 - BUILD_TESTS: set to ON for tests to be build (cmake option -DBUILD_TESTS=ON), defaults to OFF. Requires catch.h to be inserted into the tests directory
