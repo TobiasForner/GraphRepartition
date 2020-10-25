@@ -1,0 +1,1 @@
+If you want to use spdlog, insert contents of the spdlog directory here. It is removed here.

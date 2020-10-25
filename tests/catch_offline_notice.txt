@@ -1,0 +1,1 @@
+If you want to use tests, insert catch.h here. It is removed here.
