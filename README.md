@@ -1,4 +1,4 @@
-# Online Balanced Repartitioning of Dynamic Communication Pattersns in Polynomial Time
+# Online Balanced Repartitioning of Dynamic Communication Patterns in Polynomial Time
 Code for dynamically maintaining a connectivity-based graph decomposition tree.
 
 # Usage
