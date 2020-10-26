@@ -1,4 +1,4 @@
-# Graph Decomposition Tree based on Connectivity
+# Online Balanced Repartitioning of Dynamic Communication Pattersns in Polynomial Time
 Code for dynamically maintaining a connectivity-based graph decomposition tree.
 
 # Usage
